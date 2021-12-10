@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",RECORD
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",BLOBO
+http://45.226.83.14/live/RPCHD/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",TLC
+http://168.205.87.198:8555/live/antony/1234/40.ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",STAR CHANNEL
+http://50.7.34.155:2200/BR/Star_Channel-br/tracks-v1a1/mono.m3u8?token=RED_D5ruBABIzIur59z_arvTyA%3D%3D%2C1639031312.4009414566
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",TLC
+http://212.224.98.213:2200/BR/TLC_HD-br/tracks-v1a1/mono.m3u8?token=STATIC
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",A&E 
+http://play.brasiltvweb.com/v3/youshi/m1_PwsKRjIegyASUaYBiH3ou5LT_480p.m3u8?session_id=8szAYFt5MYQt&app_ver=10101&auth_id=56331410_com.global.brasiltvweb&client_ip=45.179.28.227&user_id=56331410&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://play.brasiltvweb.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=df5eea09&expired=1639113457&token=477EC9E978042862F0AD1D5284797F29&media_code=m1_PwsKRjIegyASUaYBiH3ou5LT_480p
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",COMBATE
+http://play.brasiltvweb.com/v3/youshi/m3_kxiCuVcr9XvcEbXgX_480p.m3u8?session_id=8szAYFt5MYQt&app_ver=10101&auth_id=56331410_com.global.brasiltvweb&client_ip=45.179.28.227&user_id=56331410&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://play.brasiltvweb.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=df5eea09&expired=1639113457&token=477EC9E978042862F0AD1D5284797F29&media_code=m3_kxiCuVcr9XvcEbXgX_480p
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",DISNEY HD
+http://play.brasiltvweb.com/v3/youshi/m2_J10ryUO9i2mBX6LqvpzxI7VC_480p.m3u8?session_id=8szAYFt5MYQt&app_ver=10101&auth_id=56331410_com.global.brasiltvweb&client_ip=45.179.28.227&user_id=56331410&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://play.brasiltvweb.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=df5eea09&expired=1639113457&token=477EC9E978042862F0AD1D5284797F29&media_code=m2_J10ryUO9i2mBX6LqvpzxI7VC_480p
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",DISNEY XD 
+http://play.brasiltvweb.com/v3/youshi/m2_J10ryUO9i2mBX6LqvpzxI7VC_480p.m3u8?session_id=8szAYFt5MYQt&app_ver=10101&auth_id=56331410_com.global.brasiltvweb&client_ip=45.179.28.227&user_id=56331410&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://play.brasiltvweb.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=df5eea09&expired=1639113457&token=477EC9E978042862F0AD1D5284797F29&media_code=m2_J10ryUO9i2mBX6LqvpzxI7VC_480p
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",DISCOVERY KIDS 
+http://play.brasiltvweb.com/v3/youshi/m2_afy44nd1fdEvCQ38kIuMe_264.m3u8?session_id=8szAYFt5MYQt&app_ver=10101&auth_id=56331410_com.global.brasiltvweb&client_ip=45.179.28.227&user_id=56331410&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://play.brasiltvweb.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=df5eea09&expired=1639113457&token=477EC9E978042862F0AD1D5284797F29&media_code=m2_afy44nd1fdEvCQ38kIuMe_264
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",HBO POP
+http://play.brasiltvweb.com/v3/youshi/m4_LQkKYu0HSy8qaItnDb4MEOxR_480p.m3u8?session_id=8szAYFt5MYQt&app_ver=10101&auth_id=56331410_com.global.brasiltvweb&client_ip=45.179.28.227&user_id=56331410&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://play.brasiltvweb.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=df5eea09&expired=1639113457&token=477EC9E978042862F0AD1D5284797F29&media_code=m4_LQkKYu0HSy8qaItnDb4MEOxR_480p
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",LIFETIME 
+http://play.brasiltvweb.com/v3/youshi/m2_hrRidPDANy3S52Ljmwtx978F_480p.m3u8?session_id=8szAYFt5MYQt&app_ver=10101&auth_id=56331410_com.global.brasiltvweb&client_ip=45.179.28.227&user_id=56331410&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://play.brasiltvweb.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=df5eea09&expired=1639113457&token=477EC9E978042862F0AD1D5284797F29&media_code=m2_hrRidPDANy3S52Ljmwtx978F_480p
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",MULTISHOW
+http://99wep1b.gsy1vl0.com/live/m1_xBEDmuNinjXaf4ZHcGkRsr7h_480p/m1_xBEDmuNinjXaf4ZHcGkRsr7h_480p_sensei_3092681116-5.ts
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",HBO 2
+http://play.brasiltvweb.com/v3/youshi/m2_7BFi6mTXRtGkNHln4zqwL3yj_480p.m3u8?session_id=SUjUzO81H4PC&app_ver=10101&auth_id=56331410_com.global.brasiltvweb&client_ip=45.179.28.227&user_id=56331410&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://play.brasiltvweb.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=df5eea09&expired=1639115571&token=6A0192AA81F78A3411A3DE1D94396BDD&media_code=m2_7BFi6mTXRtGkNHln4zqwL3yj_480p
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",HISTORY 
+http://play.brasiltvweb.com/v3/youshi/m1_sd6noaLRmHrcTYkGvhOJp0Di_480p.m3u8?session_id=SUjUzO81H4PC&app_ver=10101&auth_id=56331410_com.global.brasiltvweb&client_ip=45.179.28.227&user_id=56331410&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://play.brasiltvweb.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=df5eea09&expired=1639115571&token=6A0192AA81F78A3411A3DE1D94396BDD&media_code=m1_sd6noaLRmHrcTYkGvhOJp0Di_480p
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT
+http://play.brasiltvweb.com/v3/youshi/m3_Ezf6VNvIW51wZLG8xT274n3X_480p.m3u8?session_id=SUjUzO81H4PC&app_ver=10101&auth_id=56331410_com.global.brasiltvweb&client_ip=45.179.28.227&user_id=56331410&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://play.brasiltvweb.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=df5eea09&expired=1639115571&token=6A0192AA81F78A3411A3DE1D94396BDD&media_code=m3_Ezf6VNvIW51wZLG8xT274n3X_480p
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SONY
+http://play.brasiltvweb.com/v3/youshi/m3_kMewqpTKfyYadI1gm05U8cvx_264.m3u8?session_id=SUjUzO81H4PC&app_ver=10101&auth_id=56331410_com.global.brasiltvweb&client_ip=45.179.28.227&user_id=56331410&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://play.brasiltvweb.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=df5eea09&expired=1639115571&token=6A0192AA81F78A3411A3DE1D94396BDD&media_code=m3_kMewqpTKfyYadI1gm05U8cvx_264
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",MIAMI TV 
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w449396557_b2592000.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT
+https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist_w1242137519.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",AMC
+https://xmanga.xyz/amc/video.m3u8?token=6c567cab4af0161b433995fd7c3d6289c0c20ba8-21eec1f8afb811c370d99bd8d203d2bc-1639116550-1639105750&remote=45.179.28.227
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",ANIMAL PLANET 
+https://xmanga.xyz/animal-planet/video.m3u8?token=a1a6847d85cad24dd93364aa3a1f51e6cbfdffb5-294bb3592c59348d0006f89b2089009c-1639116697-1639105897&remote=45.179.28.227
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",NETGEO WILD 
+https://xmanga.xyz/nat-geo-wild/video.m3u8?token=11e3cc51d14bc4597926c66622ac6c55450f9ff7-819fdc8deb5c5b3f7ed791d0dfb285b1-1639116911-1639106111&remote=45.179.28.227
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT 
+https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist_w105353628.m3u8
